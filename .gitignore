@@ -1,0 +1,35 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+env/
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
+
+# Data
+# Add specific large data files or directories if you don't want them uploaded
+# data/ # Uncomment if your 'data' folder is too large/sensitive
+# models/ # Uncomment if your trained models are saved here and are large
+
+# Logs and temporary files
+*.log
+logs/
+temp/
+tmp/
+
+# Environment variables (crucial for security!)
+.env
+.flaskenv
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# IDE and OS specific
+.DS_Store # macOS
+Thumbs.db # Windows
+.vscode/ # VS Code specific settings
+*.exe
+*.dll
