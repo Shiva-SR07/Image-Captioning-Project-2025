@@ -1,7 +1,6 @@
 Image Captioning-Project-2025
 Some of the core Concepts that I worked is 
  sharing with you all.
-
 1. processing Images & Captions data
 
 2. Extracting image features via CNN
@@ -12,8 +11,8 @@ Some of the core Concepts that I worked is
  Captions for new images.
 
 5. Finally our project is ready for Testing by 
- providing images it will generate Captions as 
- description.
+ providing images it will generate Captions as description.
+
 1)Terminal commands to run the Project: I mean to if you paste these random commands in your terminal it will give you the image along with Captions
 python main.py --mode predict --image_to_predict "D:\Image Captioning\data\images\3765374230_cb1bbee0cb.jpg" --feature_model vgg16
 python main.py --mode predict --image_to_predict "D:\Image Captioning\data\images\3767841911_6678052eb6.jpg" --feature_model vgg16
@@ -148,3 +147,4 @@ python main.py --mode predict --image_to_predict "D:\Image Captioning\data\image
 python main.py --mode predict --image_to_predict "D:\Image Captioning\data\images\888425986_e4b6c12324.jpg" --feature_model vgg1
 1)Best picture....
 python main.py --mode predict --image_to_predict "D:\Image Captioning\data\images\380034515_4fbdfa6b26.jpg" --feature_model vgg16
+
