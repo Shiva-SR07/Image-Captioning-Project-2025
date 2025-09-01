@@ -1,4 +1,4 @@
-Image Captioning-Project-2025
+# Image Captioning-Project-2025
 Some of the core Concepts that I worked is 
  sharing with you all.
 1. processing Images & Captions data
@@ -147,4 +147,5 @@ python main.py --mode predict --image_to_predict "D:\Image Captioning\data\image
 python main.py --mode predict --image_to_predict "D:\Image Captioning\data\images\888425986_e4b6c12324.jpg" --feature_model vgg1
 1)Best picture....
 python main.py --mode predict --image_to_predict "D:\Image Captioning\data\images\380034515_4fbdfa6b26.jpg" --feature_model vgg16
+
 
